@@ -1,0 +1,8 @@
+com\mapper\UserMapper.class
+com\pojo\User.class
+com\pojo\Project.class
+com\MybatisTest.class
+com\pojo\Project_Report.class
+com\pojo\Teacher_Review.class
+com\pojo\Can_Review.class
+com\pojo\Team.class
