@@ -25,7 +25,7 @@ public class MybatisTest {
         List<User> users = userMapper.selectAll();
 
         System.out.println(users);
-        System.out.println(users);
+        System.out.println(2);
         sqlSession.close();
     }
 }
